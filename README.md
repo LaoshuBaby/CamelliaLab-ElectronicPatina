@@ -1,4 +1,4 @@
-# ElectronicPatina
+# CamelliaLab-ElectronicPatina
 A simulator of JPEG image compression distortion
 
 ## 简述
@@ -14,3 +14,7 @@ A simulator of JPEG image compression distortion
 MSBuild（Visual Studio 2017（v141））
 
 OpenCV 4.4.0
+
+## 关于我们
+
+https://github.com/LaoshuBaby/CamelliaLab-Index
